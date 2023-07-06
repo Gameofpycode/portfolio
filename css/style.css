@@ -130,6 +130,6 @@ body{
     padding: 5em 5vw;
     overflow-y: auto;
 }
-.page .page--active{
+.page--active{
     transform: scale(1);
 }
